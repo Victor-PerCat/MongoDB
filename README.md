@@ -10,15 +10,17 @@ Esta es una API CRUD (Create, Read, Update, Delete) construida con Python y Mong
 
 ## Instalación
 
-1. Clona este repositorio:
+1. El primer paso será clonar este repositorio
 
    ```sh
    git clone https://github.com/tuusuario/tu-repositorio.git
-   cd tu-repositorio
- PRIMEROS PASOS: ENTRADA AL ENTORNO VIRTUAL DE PYTHON:
+   cd tu-repositorio](https://github.com/Victor-PerCat/MongoDB)
+   
+2. Realización del entorno virtual en Python:
  
- python -m venv venv
-.\venv\Scripts\activate
+       python -m venv venv
+         .\venv\Scripts\activate
 
-INICIALIZACIÓN DE LA API - PYTHON:
-uvicorn main:app --reload
+3. Inicialización de la API:
+
+      uvicorn main:app --reload
