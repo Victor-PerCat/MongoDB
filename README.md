@@ -1,5 +1,7 @@
-# API CRUD con Python y MongoDB
-
+## API CRUD con Python y MongoDB
+# Taller de Tecnologias Disruptivas - Unidad Profesional Interdisciplinaria en Ingenierias y Tecnologías Avanzadas 
+# Alumno: Victor David Pérez Catalán
+# Fecha: 13 - Diciembre - 2024
 Esta es una API CRUD (Create, Read, Update, Delete) construida con Python y MongoDB. La API permite la descripcion de clientes de una tienda de electronica 
 
 ## Requisitos
